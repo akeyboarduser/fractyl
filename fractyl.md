@@ -52,4 +52,4 @@ Reputations can be increased or decreased by user ratings.
 * Trusted node: This is the highest rank of node. To be a trusted node, any other node has to be online for at least 7 days straight and must have a identity with exactly 0 reputation (meaning perfect reputation). Trusted nodes do not have to do a PoW challenge at all when uploading, since the difficulty would be 0 due to their perfect reputation.
 
 # help needed!
-This project is a work in progress and, I (Trackpoint), believe that it would be quite a great feat to finish this project. I could never finish it by myself, which is why I'm releasing this document publicly. Don't be afraid to send me comments or questions at my [email](mailto:akeyboarduser@gmail.com), or submit merge (pull) requests.
+This project is a work in progress and, I (Trackpoint), believe that it would be quite a great feat to finish this project. I could never finish it by myself, which is why I'm releasing this document publicly. Don't be afraid to send me comments or questions at my [email](mailto:akeyboarduser@gmail.com) (akeyboarduser@gmail.com), or submit merge (pull) requests.
