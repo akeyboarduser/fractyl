@@ -7,6 +7,8 @@ The UK's Online Safety Act ~~. I'm not personally affected thankfully, but the E
 # Where can I get details?
 Here.
 
+---
+
 # Fractyl
 > by Trackpoint (akeyboarduser), and hopefully others!
 ### a decentralized, deniable, reputation-based file sharing system
